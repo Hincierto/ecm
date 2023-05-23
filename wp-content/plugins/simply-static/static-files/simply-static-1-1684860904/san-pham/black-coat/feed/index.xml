@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Black Coat	</title>
+	<atom:link href="http://localhost/ecm/san-pham/black-coat/feed/?simply_static_page=44272" rel="self" type="application/rss+xml" />
+	<link>https://hincierto.github.io/ecm/san-pham/black-coat/</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 May 2023 14:43:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		Bởi: woostify		</title>
+		<link>https://hincierto.github.io/ecm/san-pham/black-coat/#comment-10</link>
+
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<pubDate>Mon, 06 Jan 2020 03:52:21 +0000</pubDate>
+		<guid isPermaLink="false">https://woostify.com/demos/fashion1/?post_type=product&#038;p=109#comment-10</guid>
+
+					<description><![CDATA[Fast shipping!]]></description>
+			<content:encoded><![CDATA[<p>Fast shipping!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

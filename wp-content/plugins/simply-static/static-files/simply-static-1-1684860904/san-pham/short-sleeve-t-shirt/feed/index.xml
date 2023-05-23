@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Short Sleeve T-Shirt	</title>
+	<atom:link href="http://localhost/ecm/san-pham/short-sleeve-t-shirt/feed/?simply_static_page=44254" rel="self" type="application/rss+xml" />
+	<link>https://hincierto.github.io/ecm/san-pham/short-sleeve-t-shirt/</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 May 2023 14:43:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>
+		Bởi: woostify		</title>
+		<link>https://hincierto.github.io/ecm/san-pham/short-sleeve-t-shirt/#comment-20</link>
+
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<pubDate>Tue, 09 Mar 2021 02:43:38 +0000</pubDate>
+		<guid isPermaLink="false">https://woostify.com/demos/fashion1/?post_type=product&#038;p=113#comment-20</guid>
+
+					<description><![CDATA[Good products!]]></description>
+			<content:encoded><![CDATA[<p>Good products!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: woostify		</title>
+		<link>https://hincierto.github.io/ecm/san-pham/short-sleeve-t-shirt/#comment-19</link>
+
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<pubDate>Tue, 09 Mar 2021 02:43:24 +0000</pubDate>
+		<guid isPermaLink="false">https://woostify.com/demos/fashion1/?post_type=product&#038;p=113#comment-19</guid>
+
+					<description><![CDATA[123]]></description>
+			<content:encoded><![CDATA[<p>123</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
